@@ -9,3 +9,5 @@ A project made during a Bootcamp from TI Start to practice JavaScript.
 In this project we applied dynamic elements by creating a shopping cart on a website.
 
 __________________________________________________________________________
+
+Link: https://izabela-franca.github.io/desafio3_ti_academy/
