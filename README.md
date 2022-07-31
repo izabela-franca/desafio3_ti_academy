@@ -11,3 +11,8 @@ In this project we applied dynamic elements by creating a shopping cart on a web
 __________________________________________________________________________
 
 Link: https://izabela-franca.github.io/desafio3_ti_academy/
+
+__________________________________________________________________________
+
+![image](https://user-images.githubusercontent.com/101933646/182025093-8e7ca6cb-f33b-4148-9561-dc74534c94f8.png)
+
