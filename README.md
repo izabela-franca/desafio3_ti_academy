@@ -18,7 +18,7 @@ Olá, sejam bem-vindos(as)!
 </p>
 
 ## 🗂️Link do projeto
-<a href= "https://izabela-franca.github.io/desafio3_ti_academy/"> Clique aqui <a/>
+<a href= "https://izabela-franca.github.io/shopping-cart/"> Clique aqui <a/>
 
 ## 🚀 Tecnologias
 
